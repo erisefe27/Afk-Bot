@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "bot",
+    "username": "SUNUC BOTCUK",
     "password": "your_password",
     "type": "microsoft"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "http://hedefsmp.skymc.io",
+    "port": 12840,
+    "version": "1.26.23.1"
   },
 
   "position": {
